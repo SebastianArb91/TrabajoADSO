@@ -1,0 +1,7 @@
+Proyecto de Software de Gestión de Inventarios
+
+Este proyecto está diseñado para optimizar los procesos de inventario en empresas de empaques plasticos. 
+Funcionalidades clave:
+- Registro de productos.
+- Gestión de proveedores.
+- Reportes de inventario en tiempo real.
